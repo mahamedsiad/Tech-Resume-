@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    margin: 0;
+    
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.contact{
+    display: flex ;
+    justify-content: center;
+    gap: 1.3rem;
+}
+
+.EDUCATION h2{
+    margin: 1rem 2rem;
+}
+
+.EDUCATIONS{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 5rem;
+
+}
+.COURSEWORK{
+    margin: 1rem 2rem;
+}
+.COMPUTERSKILLS{
+    margin: 1rem 2rem;
+}
+.SKILLS {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+
+}
+
+.Courses{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+}
+
+span{
+    font-weight: bold;
+}
+
+.Tools{
+    margin: 2rem 0;
+}
+
+.EXPERIENCE{
+    margin: 1rem 2rem;
+}
+
+.CareGiver{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+}
+
+.SecurityOfficer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+}
+
+
+.Technician{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+}
+
+.ACTIVITIES{
+    margin: 1rem 2rem;
+}
